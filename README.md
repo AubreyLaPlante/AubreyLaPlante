@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AubreyLaPlante
 - 👀 I’m interested in studying earthquakes, tsunamis and natural hazard mitigation.
-- 🌱 I’m currently learning how to detrend DEMs to map seafloor faulting.
+- 🌱 I’m currently learning how to detrend DEMs to map seafloor faulting in the Japan Trench.
 - 💞️ I’m looking to collaborate on dynamic rupture modeling.
 - 📫 You can reach me at my personal website, aubreylaplante.weebly.com .
 
